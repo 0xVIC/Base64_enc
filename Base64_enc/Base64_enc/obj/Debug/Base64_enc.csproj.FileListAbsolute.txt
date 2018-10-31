@@ -1,0 +1,6 @@
+C:\Users\vmrodriguez\source\repos\Base64_enc\Base64_enc\Base64_enc\bin\Debug\Base64_enc.exe
+C:\Users\vmrodriguez\source\repos\Base64_enc\Base64_enc\Base64_enc\bin\Debug\Base64_enc.pdb
+C:\Users\vmrodriguez\source\repos\Base64_enc\Base64_enc\Base64_enc\obj\Debug\Base64_enc.csprojAssemblyReference.cache
+C:\Users\vmrodriguez\source\repos\Base64_enc\Base64_enc\Base64_enc\obj\Debug\Base64_enc.csproj.CoreCompileInputs.cache
+C:\Users\vmrodriguez\source\repos\Base64_enc\Base64_enc\Base64_enc\obj\Debug\Base64_enc.exe
+C:\Users\vmrodriguez\source\repos\Base64_enc\Base64_enc\Base64_enc\obj\Debug\Base64_enc.pdb
